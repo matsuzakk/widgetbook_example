@@ -1,0 +1,11 @@
+[{
+  "name": "rangeSlider",
+  "designLink": null,
+  "useCaseName": "CustomRangeSlider",
+  "importStatement": "package:full_example/customs/custom_knob.dart",
+  "useCaseDefinitionPath": "/full_example/lib/customs/custom_knob.dart",
+  "componentName": "RangeSlider",
+  "componentImportStatement": "package:flutter/src/material/range_slider.dart",
+  "componentDefinitionPath": "/flutter/lib/src/material/range_slider.dart",
+  "navPath": "material"
+}]

@@ -1,0 +1,22 @@
+[{
+  "name": "greenContainerUseCase",
+  "designLink": null,
+  "useCaseName": "with green color",
+  "importStatement": "package:full_example/components/container.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/container.dart",
+  "componentName": "Container",
+  "componentImportStatement": "package:flutter/src/widgets/container.dart",
+  "componentDefinitionPath": "/flutter/lib/src/widgets/container.dart",
+  "navPath": "[widgets]/containers"
+},
+{
+  "name": "myWidget",
+  "designLink": null,
+  "useCaseName": "with different title",
+  "importStatement": "package:full_example/components/container.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/container.dart",
+  "componentName": "Container",
+  "componentImportStatement": "package:flutter/src/widgets/container.dart",
+  "componentDefinitionPath": "/flutter/lib/src/widgets/container.dart",
+  "navPath": "[widgets]/containers"
+}]

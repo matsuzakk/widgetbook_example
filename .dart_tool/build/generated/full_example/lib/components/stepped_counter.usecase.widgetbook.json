@@ -1,0 +1,11 @@
+[{
+  "name": "steppedCounterUseCase",
+  "designLink": null,
+  "useCaseName": "Default",
+  "importStatement": "package:full_example/components/stepped_counter.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/stepped_counter.dart",
+  "componentName": "SteppedCounter",
+  "componentImportStatement": "package:full_example/components/stepped_counter.dart",
+  "componentDefinitionPath": "/full_example/lib/components/stepped_counter.dart",
+  "navPath": "components"
+}]

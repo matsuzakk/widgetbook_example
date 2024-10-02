@@ -1,0 +1,22 @@
+[{
+  "name": "defaultCustomTextField",
+  "designLink": null,
+  "useCaseName": "Default Style",
+  "importStatement": "package:full_example/components/custom_text_field.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/custom_text_field.dart",
+  "componentName": "CustomTextField",
+  "componentImportStatement": "package:full_example/components/custom_text_field.dart",
+  "componentDefinitionPath": "/full_example/lib/components/custom_text_field.dart",
+  "navPath": "components"
+},
+{
+  "name": "hintTextCustomTextField",
+  "designLink": null,
+  "useCaseName": "With Hint Text",
+  "importStatement": "package:full_example/components/custom_text_field.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/custom_text_field.dart",
+  "componentName": "CustomTextField",
+  "componentImportStatement": "package:full_example/components/custom_text_field.dart",
+  "componentDefinitionPath": "/full_example/lib/components/custom_text_field.dart",
+  "navPath": "components"
+}]

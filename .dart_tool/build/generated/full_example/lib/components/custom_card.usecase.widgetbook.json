@@ -1,0 +1,22 @@
+[{
+  "name": "defaultCustomCard",
+  "designLink": null,
+  "useCaseName": "Default Style",
+  "importStatement": "package:full_example/components/custom_card.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/custom_card.dart",
+  "componentName": "CustomCard",
+  "componentImportStatement": "package:full_example/components/custom_card.dart",
+  "componentDefinitionPath": "/full_example/lib/components/custom_card.dart",
+  "navPath": "components"
+},
+{
+  "name": "customBackgroundCustomCard",
+  "designLink": null,
+  "useCaseName": "With Custom Background Color",
+  "importStatement": "package:full_example/components/custom_card.dart",
+  "useCaseDefinitionPath": "/full_example/lib/components/custom_card.dart",
+  "componentName": "CustomCard",
+  "componentImportStatement": "package:full_example/components/custom_card.dart",
+  "componentDefinitionPath": "/full_example/lib/components/custom_card.dart",
+  "navPath": "components"
+}]
